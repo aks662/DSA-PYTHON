@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0031-next-permutation) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
