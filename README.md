@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
