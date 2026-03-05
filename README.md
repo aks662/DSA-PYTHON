@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
+| [0647-palindromic-substrings](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
