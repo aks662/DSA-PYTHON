@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0076-minimum-window-substring) |
+| [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
