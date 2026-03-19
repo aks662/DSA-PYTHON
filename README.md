@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 | [0735-asteroid-collision](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0735-asteroid-collision) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 ## Greedy
@@ -102,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
