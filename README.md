@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
