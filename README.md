@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
 | [0735-asteroid-collision](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
