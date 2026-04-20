@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
+| [0981-time-based-key-value-store](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0647-palindromic-substrings) |
+| [0981-time-based-key-value-store](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
