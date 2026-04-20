@@ -1,27 +1,25 @@
-from collections import defaultdict
-import bisect
-
 class TimeMap:
-
     def __init__(self):
-        self.store = defaultdict(list)
+        self.store = defaultdict(lambda:([],[]))
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        self.store[key].append((timestamp, value))
+        timestamps,values=self.store[key]
+        timestamps.append(timestamp)
+        values.append(value)
 
     def get(self, key: str, timestamp: int) -> str:
         if key not in self.store:
             return ""
         
-        values = self.store[key]
+        timestamps,values = self.store[key]
         
         # Binary search
-        i = bisect.bisect_right(values, (timestamp, chr(127)))
+        i = bisect.bisect_right(timestamps,timestamp)
         
         if i == 0:
             return ""
         
-        return values[i - 1][1]
+        return values[i - 1]   
         
 
 
