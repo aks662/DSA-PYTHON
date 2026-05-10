@@ -30,13 +30,14 @@ class Solution:
         second = rev
         while second :
             t1 = first.next
-            t2 = second.next
-
             first.next = second
-            second.next = t1
-
             first = t1
+
+            t2 = second.next
+            second.next = first
             second = t2
+
+
 
         return head
         
