@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Array
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0735-asteroid-collision](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/aks662/https-github.com-aks662-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
